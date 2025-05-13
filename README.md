@@ -13,3 +13,10 @@
   - viewing sagittal samples: [Data Visuals](./MRNet/1_mrnet-sagittal-data_viz.ipynb)
   - training classifier for `abnormal` class: [abnormal classifier](./MRNet/2_triplemrnet-abnormal.ipynb), [kaggle](https://www.kaggle.com/code/shreydan/triplemrnet-abnormal)
   - training classifier for `acl` and `meniscus` class: [acl+meniscus classifier](./MRNet/3_triplemrnet-acl-meniscus.ipynb), [kaggle](https://www.kaggle.com/code/shreydan/triplemrnet-acl-meniscus/)
+
+### Dataset Visualizations
+
+- Medical Segmentation Decathlon Lung Tumour Dataset:
+  - [visualization and preprocessing using MONAI](./MSD-Lungs/1_msd-lungs-dataset-viz.ipynb)
+- [Cervical Spine 3D Dicom (RSNA 2022)](./Dataset-Visualizations/cervical-spine-dicom-3D.ipynb)
+- Whole slide and tiles: [IDC Histopathology Dataset](./Dataset-Visualizations/histopathology-whole-slide.ipynb)
